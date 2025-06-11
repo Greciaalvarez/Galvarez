@@ -19,7 +19,7 @@ status:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-avatar: static/uploads/IMG_1419.jpg
+avatar: avatar.jpg
 
 #interests:
 #- Artificial Intelligence
