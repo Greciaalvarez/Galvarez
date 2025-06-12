@@ -10,7 +10,9 @@ weight: 10
 
 author: admin
 #design:
-#  background:
+background:
+  image: "media/tu-fondo.jpg"
+  
 #    color: '#090a0b'
 #    text_color_light: true
 #    video:
