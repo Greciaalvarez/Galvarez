@@ -18,12 +18,14 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 👋 Hi, I’m Grecia Zarella Alvarez, a Master’s student in International Business specializing in Business Analytics.  
+I'm passionate about using data, AI, and finance to create innovative solutions — from sustainable ventures to algorithmic trading.  
+Currently, I'm developing a startup focused on mental wellness powered by AI, while also exploring financial markets through Python-driven trading strategies.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+Interests:
+🤖 **Artificial Intelligence** 
+🌱 **Sustainable Business**
+📈 **Options Trading Strategies**
 
 #education:
 #  courses:
