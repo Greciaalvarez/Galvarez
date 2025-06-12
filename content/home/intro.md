@@ -18,7 +18,13 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hi, I’m Grecia Zarella Alvarez, a Master’s student in International Business specializing in Business Analytics.  
+I'm passionate about using data, AI, and finance to create innovative solutions — from sustainable ventures to algorithmic trading.  
+Currently, I'm developing a startup focused on mental wellness powered by AI, while also exploring financial markets through Python-driven trading strategies.
+
+**Interests:**
+- Artificial Intelligence
+- Sustainable Business
+- Options Trading Strategies
 
 Check out my [resumé](/about/) and portfolio below 😍
