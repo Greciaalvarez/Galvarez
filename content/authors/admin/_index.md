@@ -23,10 +23,9 @@ I'm passionate about using data, AI, and finance to create innovative solutions 
 Currently, I'm developing a startup focused on mental wellness powered by AI, while also exploring financial markets through Python-driven trading strategies.
 
 ## Interests
-
-- **Artificial Intelligence**
-- **Sustainable Business**
-- **Options Trading Strategies**
+- Artificial Intelligence
+- Sustainable Business
+- Options Trading Strategies
 
 #education:
 #  courses:
