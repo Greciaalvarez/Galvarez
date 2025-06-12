@@ -22,7 +22,7 @@ bio: 👋 Hi, I’m Grecia Zarella Alvarez, a Master’s student in Internationa
 I'm passionate about using data, AI, and finance to create innovative solutions — from sustainable ventures to algorithmic trading.  
 Currently, I'm developing a startup focused on mental wellness powered by AI, while also exploring financial markets through Python-driven trading strategies.
 
-Interests:
+interests:
 🤖 **Artificial Intelligence** 
 🌱 **Sustainable Business**
 📈 **Options Trading Strategies**
