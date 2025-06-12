@@ -24,8 +24,8 @@ Currently, I'm developing a startup focused on mental wellness powered by AI, wh
 
 interests:
 **Artificial Intelligence** 
--🌱 **Sustainable Business**
--📈 **Options Trading Strategies**
+**Sustainable Business**
+**Options Trading Strategies**
 
 #education:
 #  courses:
