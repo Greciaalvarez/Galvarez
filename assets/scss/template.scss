@@ -118,9 +118,19 @@ ul.network-icon .big-icon {
 /* Fondo grande tipo hero en la cabecera */
 .home-section.wg-about-avatar {
   background: linear-gradient(rgba(20,20,20,0.5), rgba(20,20,20,0.5)), url('/media/IMG_1113.jpg') center center/cover no-repeat;
-  min-height: 600px; /* Ajusta la altura según prefieras */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  min-height: 600px; /* Ajusta esta altura según lo que quieras cubrir */
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-radius: 0;
+  box-shadow: none;
+}
+.header-profile-bg {
+  background: #fff;
+  padding: 2rem 3rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 32px 0 rgba(0,0,0,0.08);
+  display: inline-block;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
 }
