@@ -20,7 +20,7 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: |
   👋 Hi, I’m Grecia Zarella Alvarez, a Master’s student in International Business specializing in Business Analytics.  
-  I'm passionate about using data, AI, and finance to create innovative solutions — from sustainable ventures to algorithmic trading.  
+  I'm passionate about using data, AI, and finance to create innovative solution from sustainable ventures to algorithmic trading.  
   Currently, I'm developing a startup focused on mental wellness powered by AI, while also exploring financial markets through Python-driven trading strategies.
 
 interests:
