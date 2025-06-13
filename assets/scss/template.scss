@@ -46,11 +46,8 @@ body {
 /* ¡IMPORTANTE! Elimina el background-color oscuro aquí si quieres tu imagen de fondo */
 .home-section.wg-about-avatar {
   padding: 0;
-  /* AÑADE esto para tu fondo tipo hero */
-  .home-section.wg-about-avatar {
   background: linear-gradient(rgba(20,20,20,0.4), rgba(20,20,20,0.4)), url('/media/IMG_1113.jpg') center center/cover no-repeat !important;
-}
-  min-height: 600px; /* Puedes ajustar la altura */
+  min-height: 600px;
   display: flex;
   flex-direction: column;
   justify-content: center;
