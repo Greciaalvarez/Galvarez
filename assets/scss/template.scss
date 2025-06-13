@@ -43,8 +43,18 @@ body {
   padding: 1rem 0;
 }
 
+/* ¡IMPORTANTE! Elimina el background-color oscuro aquí si quieres tu imagen de fondo */
 .home-section.wg-about-avatar {
   padding: 0;
+  /* AÑADE esto para tu fondo tipo hero */
+  background: linear-gradient(rgba(20,20,20,0.4), rgba(20,20,20,0.4)), url('/media/IMG_1113.jpg') center center/cover no-repeat;
+  min-height: 600px; /* Puedes ajustar la altura */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 #profile .network-icon {
@@ -114,23 +124,4 @@ ul.network-icon .big-icon {
 
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
-}
-/* Fondo grande tipo hero en la cabecera */
-.home-section.wg-about-avatar {
-  background: linear-gradient(rgba(20,20,20,0.5), rgba(20,20,20,0.5)), url('/media/IMG_1113.jpg') center center/cover no-repeat;
-  min-height: 600px; /* Ajusta esta altura según lo que quieras cubrir */
-  padding-top: 60px;
-  padding-bottom: 60px;
-  border-radius: 0;
-  box-shadow: none;
-}
-.header-profile-bg {
-  background: #fff;
-  padding: 2rem 3rem;
-  border-radius: 20px;
-  box-shadow: 0 4px 32px 0 rgba(0,0,0,0.08);
-  display: inline-block;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  text-align: center;
 }
