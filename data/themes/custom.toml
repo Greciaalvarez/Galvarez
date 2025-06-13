@@ -1,7 +1,7 @@
 # Essentially Minimal theme but with constant home section bg color.
 name = "Starter Blog"
 
-#[light]
+[light]
   # Primary
   primary = "#2962ff"
 
@@ -15,7 +15,7 @@ name = "Starter Blog"
   home_section_odd = "rgb(247, 250, 252)"
   home_section_even = "rgb(247, 250, 252)"
 
-#[dark]
+[dark]
   primary = "#bbdefb"
   link = "#bbdefb"
   link_hover = "#bbdefb"
