@@ -13,6 +13,6 @@ type: landing
     design:
       banner:
         filename: IMG_1113.jpg   # Usa aquí el nombre exacto de tu imagen
-      biography:
+      # biography:
         style: 'text-align: justify; font-size: 0.8em;'
 ---
