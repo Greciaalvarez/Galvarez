@@ -3,8 +3,8 @@ title: 'Home'
 date: 2025-06-12
 type: landing
 
-sections:
-  - block: biography
+# sections:
+  # block: biography
     content:
       username: admin
       button:
