@@ -11,7 +11,7 @@ weight: 10
 author: admin
 #design:
 background:
-  image: "/media/IMG_1113.jpg"
+  image: "IMG_1113.jpg"
   
 #    color: '#090a0b'
 #    text_color_light: true
